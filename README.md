@@ -20,8 +20,8 @@ This Python script automates the process of unfollowing users on Instagram using
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/instagram-unfollow-automation.git
-cd instagram-unfollow-automation
+git clone https://github.com/yourusername/python-instagram-unfollow-automation.git
+cd python-instagram-unfollow-automation
 ```
 
 2. Install required packages:
