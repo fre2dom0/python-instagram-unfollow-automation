@@ -157,7 +157,7 @@ def main():
             pass
     finally:
         # Always close the browser
-        #bot.close()
+        bot.close()
         pass
 
 if __name__ == "__main__":
